@@ -1,0 +1,44 @@
+.food_title{
+  background-color: #0d3dd9;
+  padding: 5px;
+  color: #fff;
+}
+
+.type1{
+  background-color: #7cbccc;
+}
+
+.type2{
+  background-color: #7cb6f5;
+}
+
+.type3{
+  background-color: #9cdff6;
+}
+
+.food_title a{
+  color:#fff;
+}
+
+ul{
+  padding: 0;
+}
+
+li{
+  list-style:none;
+}
+
+h1{
+  text-align: center;
+}
+
+#time {
+  /* PHP の変数を echo する */
+  background-color: #0d3dd9;
+  width: 120px;
+  height: 25px;
+  border-radius: 5px;
+  margin: 20px;
+  padding: 10px;
+  text-align: center;
+}
